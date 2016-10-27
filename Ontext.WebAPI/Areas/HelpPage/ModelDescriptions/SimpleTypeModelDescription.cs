@@ -1,0 +1,6 @@
+namespace Ontext.WebAPI.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}

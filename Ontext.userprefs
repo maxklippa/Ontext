@@ -1,0 +1,34 @@
+﻿<Properties StartupItem="Ontext.IOS/Ontext.IOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.iPhone (Galina)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ontext.IOS/Controllers/Contacts/OntextContactListController.cs">
+    <Files>
+      <File FileName="Ontext.IOS/Controllers/AnimatedTabBarViewController.cs" Line="320" Column="6" />
+      <File FileName="Ontext.IOS/Controllers/Login/LoginController.cs" Line="38" Column="60" />
+      <File FileName="Ontext.IOS/Views/Delegates/PhoneTextFieldDelegate.cs" Line="9" Column="74" />
+      <File FileName="Ontext.IOS/Controllers/Login/TypeNewPhoneController.cs" Line="35" Column="49" />
+      <File FileName="Ontext.IOS/Controllers/ProfileSettings/TypeAdditionalPhoneController.cs" Line="35" Column="99" />
+      <File FileName="Ontext.IOS/Controllers/ProfileSettings/TypeCurrentPhoneController.cs" Line="35" Column="99" />
+      <File FileName="Ontext.Client/API/Base/ApiManager.cs" Line="19" Column="20" />
+      <File FileName="Ontext.IOS/Controllers/Contacts/OntextContactListController.cs" Line="164" Column="65" />
+      <File FileName="Ontext.IOS/Controllers/Contacts/ContactListController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sergey/Documents/Projects/Ontext/src/Ontext.IOS/Helpers/ExtensionMethods/ViewControllerExtensions.cs" line="91" column="1" />
+      <Breakpoint file="/Users/sergey/Documents/Projects/Ontext/src/Ontext.IOS/Helpers/ExtensionMethods/ViewControllerExtensions.cs" line="36" column="1" />
+      <Breakpoint file="/Users/sergey/Documents/Projects/Ontext/src/Ontext.IOS/Helpers/ExtensionMethods/ViewControllerExtensions.cs" line="21" column="1" />
+      <Breakpoint file="/Users/sergey/Documents/Projects/Ontext/src/Ontext.IOS/Helpers/ExtensionMethods/ViewControllerExtensions.cs" line="25" column="1" />
+      <Breakpoint file="/Users/sergey/Documents/Projects/Ontext/src/Ontext.IOS/Controllers/ProfileSettings/TypeAdditionalPhoneSmsCodeController.cs" line="73" column="1" />
+      <Breakpoint file="/Users/sergey/Documents/Projects/Ontext/src/Ontext.IOS/Controllers/Login/TypeNewPhoneController.cs" line="63" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="PhoneNumbers/PhoneNumberUtil.cs" line="569" offsetX="672" offsetY="6450" expression="json" liveUpdate="False" />
+    <Watch file="Ontext.IOS/Controllers/AnimatedTabBarViewController.cs" line="297" offsetX="400" offsetY="1890" expression="entry" liveUpdate="True" />
+    <Watch file="Ontext.IOS/Models/TablesSources/OntextContactListTableSource.cs" line="21" offsetX="342" offsetY="300" expression="tableItems" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <DisabledProjects>
+    <String>Ontext.Client/Ontext.IOS/Ontext.IOS.csproj</String>
+  </DisabledProjects>
+</Properties>

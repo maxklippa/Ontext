@@ -1,0 +1,16 @@
+﻿<!-- Reference: http://blog.alanta.nl/2011/02/web-deploy-customizing-deployment.html -->
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <OnBeforePackageUsingManifest>AddCustomSkipRules</OnBeforePackageUsingManifest>
+  </PropertyGroup>
+  <Target Name="AddCustomSkipRules">
+    <ItemGroup>
+      <MsDeploySkipRules Include="SkipImagesFolder">
+        <SkipAction>Delete</SkipAction>
+        <ObjectName>dirPath</ObjectName>
+        <AbsolutePath>$(_Escaped_PackageTempDir)\\Images$</AbsolutePath>
+        <XPath/>
+      </MsDeploySkipRules>
+    </ItemGroup>
+  </Target>
+</Project>
